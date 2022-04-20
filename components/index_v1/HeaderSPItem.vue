@@ -20,7 +20,7 @@
 export default {
   name: 'HeaderSP',
   components: {
-    ButtonL:()=>import('~/components/CommonParts/BottonNext.vue'),
+    ButtonL:()=>import('~/components/CommonParts/BottonNone.vue'),
   },
   data(){
     return {

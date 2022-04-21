@@ -1,5 +1,5 @@
 <template>
-  <div id="home">
+  <div id="news">
     <main class="overflow-hidden">
       <HeaderItem/>
       <FirstviewItem/>
@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: 'Home',
+  name: 'news',
   components: {
     HeaderItem:()=>import('@/components/index_v1/HeaderItem.vue'),
     FirstviewItem:()=>import('@/components/index_v1/FirstviewItem.vue'),

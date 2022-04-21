@@ -16,7 +16,7 @@
           <div class="text-base w-full overflow-hidden">
             <div class="h-64 sm:h-96 sm:w-full mb-10 overflow-hidden fadeIn" v-scroll="handleScroll2">
               <!-- PC版 -->
-              <div>
+              <div class="overflow-x-hidden">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12962.900285356694!2d139.7031765!3d35.683771!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4c29acbd1e78fe7!2z5qCq5byP5Lya56S-44OG44Kk44OB44Oj44Kv!5e0!3m2!1sja!2sjp!4v1649299609457!5m2!1sja!2sjp" class="hidden sm:block w-full sm:h-96" style="border:0; height:720px; margin-top: -170px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
               <!-- SP版 -->
